@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Todo from './Todo';
-import AddTodo from './AddTodo';
+import AddTodo from './components/AddTodo';
 
 class App extends Component {
   state = {
